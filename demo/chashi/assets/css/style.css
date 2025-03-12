@@ -149,7 +149,10 @@ img {
   height: auto;
   max-width: 100%;
 }
-
+.groot-logo{
+  height: calc(70px + 1vw)!important;
+  max-width: 100%;
+}
 @media (min-width: 576px) {
   h1 {
     font-size: 72px;
@@ -318,7 +321,9 @@ ul.agri-ul li {
     margin-left: -75px;
   }
 }
-
+.header-section{
+  background-color: #ffffff;
+}
 .home-page4 .header-section .header-top.bg-black {
   background: #ffb11f;
 }
@@ -1887,7 +1892,7 @@ ul.agri-ul li {
   width: 100%;
   top: 0;
   z-index: 99;
-  background: #fff;
+  background: #ffffff;
   box-shadow: 0 0 3px rgba(81, 136, 136, 0.1);
 }
 .header-section .primary-menu {
