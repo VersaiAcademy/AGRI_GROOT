@@ -1,0 +1,988 @@
+Uri: http://labartisan.net/demo/chashi/404.html
+File Name: E:\agri\labartisan.net\demo\chashi\404.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/about.html
+File Name: E:\agri\labartisan.net\demo\chashi\about.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/assets/css/all.min.css
+File Name: E:\agri\labartisan.net\demo\chashi\assets\css\all.min.css
+Content Type: text/css
+
+Uri: http://labartisan.net/demo/chashi/assets/css/animate.css
+File Name: E:\agri\labartisan.net\demo\chashi\assets\css\animate.css
+Content Type: text/css
+
+Uri: http://labartisan.net/demo/chashi/assets/css/bg-image/footer-top-bg.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\css\bg-image\footer-top-bg.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/css/bootstrap.min.css
+File Name: E:\agri\labartisan.net\demo\chashi\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: http://labartisan.net/demo/chashi/assets/css/fonts/icofont.woff
+File Name: E:\agri\labartisan.net\demo\chashi\assets\css\fonts\icofont.woff
+Content Type: application/font-woff
+
+Uri: http://labartisan.net/demo/chashi/assets/css/fonts/icofont.woff2
+File Name: E:\agri\labartisan.net\demo\chashi\assets\css\fonts\icofont.woff2
+Content Type: font/woff2
+
+Uri: http://labartisan.net/demo/chashi/assets/css/icofont.min.css
+File Name: E:\agri\labartisan.net\demo\chashi\assets\css\icofont.min.css
+Content Type: text/css
+
+Uri: http://labartisan.net/demo/chashi/assets/css/lightcase.css
+File Name: E:\agri\labartisan.net\demo\chashi\assets\css\lightcase.css
+Content Type: text/css
+
+Uri: http://labartisan.net/demo/chashi/assets/css/style.css
+File Name: E:\agri\labartisan.net\demo\chashi\assets\css\style.css
+Content Type: text/css
+
+Uri: http://labartisan.net/demo/chashi/assets/css/swiper.min.css
+File Name: E:\agri\labartisan.net\demo\chashi\assets\css\swiper.min.css
+Content Type: text/css
+
+Uri: http://labartisan.net/demo/chashi/assets/fonts/lightcase.eot?55356177
+File Name: E:\agri\labartisan.net\demo\chashi\assets\fonts\lightcase.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://labartisan.net/demo/chashi/assets/fonts/lightcase.svg?55356177
+File Name: E:\agri\labartisan.net\demo\chashi\assets\fonts\lightcase.svg
+Content Type: image/svg+xml
+
+Uri: http://labartisan.net/demo/chashi/assets/fonts/lightcase.ttf?55356177
+File Name: E:\agri\labartisan.net\demo\chashi\assets\fonts\lightcase.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://labartisan.net/demo/chashi/assets/fonts/lightcase.woff?55356177
+File Name: E:\agri\labartisan.net\demo\chashi\assets\fonts\lightcase.woff
+Content Type: application/font-woff
+
+Uri: http://labartisan.net/demo/chashi/assets/images/404.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\404.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/03.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\03.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/04.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\04.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/icon/01.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\icon\01.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/icon/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\icon\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/icon/02.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\icon\02.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/icon/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\icon\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/icon/03.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\icon\03.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/icon/03.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\icon\03.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/icon/04.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\icon\04.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/icon/04.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\icon\04.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/icon/05.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\icon\05.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/shape/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\shape\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/about/shape/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\about\shape\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/banner/01.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\banner\01.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/banner/02.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\banner\02.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/banner/home-4/01.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\banner\home-4\01.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/bg-images/bg-1.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\bg-images\bg-1.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/bg-images/bg-countdown.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\bg-images\bg-countdown.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/bg-images/bg-counter.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\bg-images\bg-counter.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/bg-images/page-header.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\bg-images\page-header.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/blog/01.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\blog\01.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/blog/02.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\blog\02.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/blog/03.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\blog\03.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/blog/04.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\blog\04.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/blog/05.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\blog\05.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/blog/06.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\blog\06.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/countdown/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\countdown\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/countdown/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\countdown\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/countdown/03.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\countdown\03.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/countdown/04.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\countdown\04.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/counter/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\counter\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/counter/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\counter\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/counter/03.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\counter\03.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/counter/04.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\counter\04.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/del.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\del.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/farm/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\farm\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/farm/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\farm\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/03.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\03.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/04.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\04.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/05.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\05.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/06.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\06.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/07.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\07.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/08.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\08.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/09.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\09.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/10.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\10.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/shape/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\shape\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/shape/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\shape\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/feature/shape/03.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\feature\shape\03.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/gallery/01.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\gallery\01.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/gallery/02.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\gallery\02.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/gallery/03.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\gallery\03.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/gallery/04.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\gallery\04.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/gallery/05.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\gallery\05.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/gallery/06.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\gallery\06.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/history/01.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\history\01.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/logo/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\logo\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/masonary/01.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\masonary\01.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/masonary/02.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\masonary\02.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/masonary/03.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\masonary\03.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/masonary/04.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\masonary\04.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/masonary/05.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\masonary\05.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/masonary/06.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\masonary\06.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/masonary/07.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\masonary\07.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/masonary/08.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\masonary\08.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/masonary/09.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\masonary\09.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/masonary/10.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\masonary\10.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/masonary/11.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\masonary\11.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/masonary/12.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\masonary\12.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/offer/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\offer\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/offer/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\offer\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/offer/03.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\offer\03.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/offer/04.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\offer\04.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/offer/05.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\offer\05.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/01.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\01.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/02.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\02.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/03.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\03.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/04.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\04.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/05.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\05.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/06.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\06.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/07.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\07.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/08.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\08.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/09.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\09.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/10.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\10.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/11.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\11.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/12.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\12.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/13.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\13.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/14.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\14.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/15.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\15.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/16.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\16.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/17.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\17.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/18.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\18.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/19.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\19.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/20.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\20.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/21.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\21.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/22.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\22.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/23.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\23.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/24.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\24.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/25.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\25.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/03.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\03.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/04.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\04.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/05.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\05.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/06.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\06.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/07.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\07.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/08.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\08.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/09.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\09.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/10.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\10.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/11.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\11.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/12.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\12.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/13.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\13.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home-4/14.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home-4\14.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/01.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\01.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/02.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\02.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/03.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\03.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/03.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\03.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/04.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\04.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/04.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\04.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/05.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\05.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/05.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\05.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/06.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\06.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/06.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\06.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/07.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\07.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/07.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\07.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/08.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\08.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/home3/09.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\home3\09.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/shape/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\shape\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/shape/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\shape\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/single/bottom/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\single\bottom\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/single/bottom/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\single\bottom\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/single/bottom/03.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\single\bottom\03.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/single/bottom/04.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\single\bottom\04.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/single/bottom/05.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\single\bottom\05.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/product/single/top/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\product\single\top\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/service/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\service\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/service/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\service\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/service/03.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\service\03.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/service/04.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\service\04.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/service/05.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\service\05.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/service/06.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\service\06.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/service/single/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\service\single\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/service/single/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\service\single\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/sponsor/01.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\sponsor\01.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/sponsor/02.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\sponsor\02.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/sponsor/03.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\sponsor\03.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/sponsor/04.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\sponsor\04.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/sponsor/05.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\sponsor\05.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/team/01.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\team\01.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/team/02.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\team\02.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/team/03.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\team\03.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/team/04.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\team\04.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/team/05.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\team\05.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/team/06.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\team\06.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/team/07.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\team\07.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/team/08.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\team\08.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/team/09.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\team\09.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/team/10.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\team\10.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/team/11.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\team\11.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/team/12.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\team\12.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/testimonial/01.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\testimonial\01.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/testimonial/02.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\testimonial\02.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/testimonial/03.jpg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\testimonial\03.jpg
+Content Type: image/jpeg
+
+Uri: http://labartisan.net/demo/chashi/assets/images/testimonial/quete-left.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\testimonial\quete-left.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/testimonial/qute.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\testimonial\qute.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/images/x-icon/agricul.png
+File Name: E:\agri\labartisan.net\demo\chashi\assets\images\x-icon\agricul.png
+Content Type: image/png
+
+Uri: http://labartisan.net/demo/chashi/assets/js/bootstrap.min.js
+File Name: E:\agri\labartisan.net\demo\chashi\assets\js\bootstrap.min.js
+Content Type: text/javascript
+
+Uri: http://labartisan.net/demo/chashi/assets/js/fontawesome.min.js
+File Name: E:\agri\labartisan.net\demo\chashi\assets\js\fontawesome.min.js
+Content Type: text/javascript
+
+Uri: http://labartisan.net/demo/chashi/assets/js/functions.js
+File Name: E:\agri\labartisan.net\demo\chashi\assets\js\functions.js
+Content Type: text/javascript
+
+Uri: http://labartisan.net/demo/chashi/assets/js/isotope.pkgd.min.js
+File Name: E:\agri\labartisan.net\demo\chashi\assets\js\isotope.pkgd.min.js
+Content Type: text/javascript
+
+Uri: http://labartisan.net/demo/chashi/assets/js/jquery.countdown.min.js
+File Name: E:\agri\labartisan.net\demo\chashi\assets\js\jquery.countdown.min.js
+Content Type: text/javascript
+
+Uri: http://labartisan.net/demo/chashi/assets/js/jquery.counterup.min.js
+File Name: E:\agri\labartisan.net\demo\chashi\assets\js\jquery.counterup.min.js
+Content Type: text/javascript
+
+Uri: http://labartisan.net/demo/chashi/assets/js/jquery.js
+File Name: E:\agri\labartisan.net\demo\chashi\assets\js\jquery.js
+Content Type: text/javascript
+
+Uri: http://labartisan.net/demo/chashi/assets/js/lightcase.js
+File Name: E:\agri\labartisan.net\demo\chashi\assets\js\lightcase.js
+Content Type: text/javascript
+
+Uri: http://labartisan.net/demo/chashi/assets/js/swiper.min.js
+File Name: E:\agri\labartisan.net\demo\chashi\assets\js\swiper.min.js
+Content Type: text/javascript
+
+Uri: http://labartisan.net/demo/chashi/assets/js/waypoints.min.js
+File Name: E:\agri\labartisan.net\demo\chashi\assets\js\waypoints.min.js
+Content Type: text/javascript
+
+Uri: http://labartisan.net/demo/chashi/assets/js/wow.min.js
+File Name: E:\agri\labartisan.net\demo\chashi\assets\js\wow.min.js
+Content Type: text/javascript
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-brands-400.eot
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-brands-400.eot?
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-brands-400.svg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-brands-400.ttf
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-brands-400.woff
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-brands-400.woff2
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-regular-400.eot
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-regular-400.eot?
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-regular-400.svg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-regular-400.ttf
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-regular-400.woff
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-regular-400.woff2
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-solid-900.eot
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-solid-900.eot?
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-solid-900.svg
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-solid-900.ttf
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-solid-900.woff
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: http://labartisan.net/demo/chashi/assets/webfonts/fa-solid-900.woff2
+File Name: E:\agri\labartisan.net\demo\chashi\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://labartisan.net/demo/chashi/blog-ls.html
+File Name: E:\agri\labartisan.net\demo\chashi\blog-ls.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/blog-single.html
+File Name: E:\agri\labartisan.net\demo\chashi\blog-single.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/blog.html
+File Name: E:\agri\labartisan.net\demo\chashi\blog.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/cart-page.html
+File Name: E:\agri\labartisan.net\demo\chashi\cart-page.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/contact-us.html
+File Name: E:\agri\labartisan.net\demo\chashi\contact-us.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/faq-page.html
+File Name: E:\agri\labartisan.net\demo\chashi\faq-page.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/gallery-grid2.html
+File Name: E:\agri\labartisan.net\demo\chashi\gallery-grid2.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/gallery-masonary.html
+File Name: E:\agri\labartisan.net\demo\chashi\gallery-masonary.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/index-2.html
+File Name: E:\agri\labartisan.net\demo\chashi\index-2.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/index-3.html
+File Name: E:\agri\labartisan.net\demo\chashi\index-3.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/index-4.html
+File Name: E:\agri\labartisan.net\demo\chashi\index-4.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/index.html
+File Name: E:\agri\labartisan.net\demo\chashi\index.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/product-page.html
+File Name: E:\agri\labartisan.net\demo\chashi\product-page.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/product-single.html
+File Name: E:\agri\labartisan.net\demo\chashi\product-single.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/service-single.html
+File Name: E:\agri\labartisan.net\demo\chashi\service-single.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/service.html
+File Name: E:\agri\labartisan.net\demo\chashi\service.html
+Content Type: text/html
+
+Uri: http://labartisan.net/demo/chashi/team.html
+File Name: E:\agri\labartisan.net\demo\chashi\team.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap
+File Name: E:\agri\labartisan.net\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: E:\agri\labartisan.net\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: E:\agri\labartisan.net\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: E:\agri\labartisan.net\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: E:\agri\labartisan.net\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: E:\agri\labartisan.net\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: E:\agri\labartisan.net\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: E:\agri\labartisan.net\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: E:\agri\labartisan.net\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: E:\agri\labartisan.net\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: E:\agri\labartisan.net\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: E:\agri\labartisan.net\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: E:\agri\labartisan.net\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
