@@ -147,7 +147,7 @@ p {
 }
 
 a {
-  color: #181818;
+  color: white;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   transition: all 0.3s ease;
@@ -156,7 +156,7 @@ a {
 }
 
 a:hover, a:focus, a:active, a:visited {
-  color: #181818;
+  color: #e8e1e1;
   text-decoration: none;
   outline: none;
 }
