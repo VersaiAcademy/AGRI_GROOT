@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+        <link href="../../css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap"
+        rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/x-icon/agricul.svg">
+
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/icofont.min.css">
+    <link rel="stylesheet" href="assets/css/lightcase.css">
+    <link rel="stylesheet" href="assets/css/swiper.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+     <style>
+            :root {
+                --primary-color: #2E7D32;
+                /* Green theme for agriculture */
+                --secondary-color: #4CAF50;
+                --text-color: #333;
+                --light-bg: #f9f9f9;
+                --white: #ffffff;
+                --box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            }
+
+            body {
+                font-family: 'Poppins', sans-serif;
+                line-height: 1.8;
+                color: var(--text-color);
+                background-color: var(--light-bg);
+                margin: 0;
+                padding: 0;
+            }
+
+            .privacy-container {
+                max-width: 1200px;
+                margin: 40px auto;
+                padding: 30px;
+                background: var(--white);
+                border-radius: 10px;
+                box-shadow: var(--box-shadow);
+            }
+
+            .header {
+                text-align: center;
+                margin-bottom: 30px;
+                border-bottom: 2px solid var(--primary-color);
+                padding-bottom: 15px;
+            }
+
+            .header h1 {
+                color: var(--primary-color);
+                font-size: 2.5rem;
+                margin-bottom: 10px;
+            }
+
+            .header p {
+                color: #666;
+                font-size: 1rem;
+            }
+
+            h2 {
+                color: var(--primary-color);
+                margin-top: 30px;
+                font-size: 1.5rem;
+                position: relative;
+                padding-left: 15px;
+            }
+
+            h2:before {
+                content: "";
+                position: absolute;
+                left: 0;
+                top: 50%;
+                transform: translateY(-50%);
+                height: 20px;
+                width: 5px;
+                background: var(--secondary-color);
+                border-radius: 3px;
+            }
+
+            ul {
+                padding-left: 20px;
+            }
+
+            ul li {
+                margin-bottom: 10px;
+            }
+
+            .highlight-box {
+                background: #E8F5E9;
+                padding: 15px;
+                border-left: 4px solid var(--primary-color);
+                margin: 20px 0;
+                border-radius: 0 5px 5px 0;
+            }
+
+            .contact-info {
+                margin-top: 30px;
+                background: var(--light-bg);
+                padding: 20px;
+                border-radius: 8px;
+            }
+
+            .contact-info h3 {
+                margin-top: 0;
+                color: var(--primary-color);
+            }
+
+            @media (max-width: 768px) {
+                .privacy-container {
+                    padding: 20px;
+                    margin: 20px;
+                }
+
+                .header h1 {
+                    font-size: 2rem;
+                }
+            }
+            
+        </style>
+</head>
+<body>
+      <header class="header-section">
+            <!-- <div class="header-top d-none d-lg-block">
+                    <div class="container">
+                        <div class="row justify-content-center align-items-center">
+                            <div class="col-lg-7 col-12">
+                                <div class="ht-left">
+                                    <ul class="agri-ul d-flex flex-wrap">
+                                        <li><i class="icofont-envelope"></i><span>Chashi@gmail.com</span></li>
+                                        <li><i class="icofont-phone"></i><span>+88130-589-745-6987</span></li>
+                                        <li><i class="icofont-stopwatch"></i><span>Mon - Fri 09:00 - 18:00</span></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-5 col-12">
+                                <div class="ht-right">
+                                    <div class="scocial-media">
+                                        <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
+                                        <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
+                                        <a href="#" class="linkedin"><i class="icofont-linkedin"></i></a>
+                                        <a href="#" class="vimeo"><i class="icofont-vimeo"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+            <div class="header-area">
+                <div class="container">
+                    <nav class="navbar navbar-expand-lg">
+                        <div class="primary-menu">
+                            <div class="logo">
+                                <a href="index.html"><img class="groot-logo" src="assets/images/logo/01.svg"
+                                        alt="logo"></a>
+                            </div>
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                                <i class="icofont-navigation-menu"></i>
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                <div class="main-area">
+                                    <div class="main-menu">
+                                        <ul class="agri-ul">
+                                            <li class="active"><a href="index.html">Home</a>
+
+                                            </li>
+                                            <li>
+                                                <a href="about.html">About</a>
+
+                                            </li>
+
+
+                                            <li>
+                                                <a href="product-page.html">Shop</a>
+
+                                            </li>
+                                            <li><a href="service.html">Services</a></li>
+                                            <li><a href="contact-us.html">Contact</a></li>
+                                        </ul>
+                                    </div>
+                                   
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </header>
+     <div class="privacy-container">
+            <div class="header">
+                <h1>Privacy Policy</h1>
+                <p>Last Updated: <span id="last-updated-date">[Insert Date]</span></p>
+            </div>
+
+            <p>Welcome to <strong>VIKJAN GROOT AGRICULTURAL PRODUCTS (OPC) PRIVATE LIMITED</strong>. We are committed to
+                protecting your privacy and ensuring the security of your personal information.</p>
+
+            <h2>1. Information Collection</h2>
+            <p>We collect information to provide better services to our customers:</p>
+            <ul>
+                <li><strong>Personal Information:</strong> Name, email, phone number, shipping address</li>
+                <li><strong>Transaction Data:</strong> Purchase history, payment details (processed securely)</li>
+                <li><strong>Technical Data:</strong> IP address, browser type, device information</li>
+            </ul>
+
+            <div class="highlight-box">
+                <strong>Note:</strong> We never store your credit card details. All payments are processed through
+                secure payment gateways.
+            </div>
+
+            <h2>2. Use of Your Information</h2>
+            <p>Your information helps us to:</p>
+            <ul>
+                <li>Process your orders and deliver products</li>
+                <li>Improve our website and services</li>
+                <li>Send important notices and updates</li>
+                <li>Prevent fraud and enhance security</li>
+            </ul>
+
+            <h2>3. Data Protection</h2>
+            <p>We implement security measures including:</p>
+            <ul>
+                <li>SSL encryption for all data transmissions</li>
+                <li>Regular security audits</li>
+                <li>Limited access to personal data</li>
+            </ul>
+
+            <h2>4. Your Rights</h2>
+            <p>You have the right to:</p>
+            <ul>
+                <li>Access your personal data</li>
+                <li>Request correction of inaccurate information</li>
+                <li>Delete your account data</li>
+                <li>Opt-out of marketing communications</li>
+            </ul>
+
+            
+            </div>
+        </div>
+         <footer class="footer-section padding-tb pb-0">
+            <div class="container">
+                <div class="footer-top">
+                    <div class="row">
+                        <div class="col-xl-3 col-md-6 col-12">
+                            <div class="footer-item">
+                                <div class="footer-inner">
+                                    <div class="footer-logo">
+                                        <img class="groot-logo" src="assets/images/logo/01.svg" alt="footer-logo">
+                                    </div>
+                                    <div class="footer-desc">
+                                        <h4 style="color: white;"></h4>
+                                        <p>VIKJAN GROOT AGRICULTURAL PRODUCTS (OPC) PRIVATE LIMITED with premium quality products and services.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                       
+                        <div class="col-xl-3 col-md-6 col-12">
+                            <div class="footer-item">
+                                <div class="footer-inner">
+                                    <div class="footer-title">
+                                        <h5>Our Policies</h5>
+                                    </div>
+                                    <div class="footer-body">
+                                        <ul class="agri-ul" style="color: white;">
+                                             <li><a href="return policy.html">Return Policy</a></li>
+                                            <li><a href="Privacy Policy.html">Privacy Policy</a></li>
+                                            <li><a href="Seller Terms and Conditions.html">Seller Terms and Conditions</a></li>
+                                            <li><a href="Shipping-Delivery.html">Shipping / Delivery</a></li>
+                                            <li><a href="Cancellation Policy.html">Cancellation Policy</a></li>
+                                            <li><a href="FAQ.html">FAQ</a></li>
+                                           
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <style>
+                            a:visited{
+                                color: white;
+                            }
+                        </style>
+                         <div class="col-xl-3 col-md-6 col-12">
+                            <div class="footer-item">
+                                <div class="footer-inner">
+                                    <div class="footer-title">
+                                        <h5>Services</h5>
+                                    </div>
+                                    <div class="footer-body">
+                                        <ul class="agri-ul" style="color: white;">
+                                            <li><a href="#">Home</a></li>
+                                            <li><a href="#">About</a></li>
+                                            <li><a href="#">Shop</a></li>
+                                            <li><a href="#">Services</a></li>
+                                            <li><a href="#">Contact</a></li>
+                                           
+                                           
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                         <div class="col-xl-3 col-md-6 col-12">
+                            <div class="footer-item footer-addtess">
+                                <div class="footer-inner">
+                                    <div class="footer-title">
+                                        <h5>Contact Us</h5>
+                                    </div>
+                                    <div class="footer-body">
+                                        <ul class="agri-ul">
+                                            <li>
+                                                <div class="icon">
+                                                    <i class="icofont-google-map"></i>
+                                                </div>
+                                                <div class="detalis">
+                                                    <p>Vikas Kumar / Tarachand Jangir<br>
+                                                        VPO Khasoli, Churu, Rajasthan 331001</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon">
+                                                    <i class="icofont-phone"></i>
+                                                </div>
+                                                <div class="detalis">
+                                                    <p>+91 7014672284</p>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="footer-bottom">
+                    <p>&copy; 2023 <a href="index.html"><span>VIKJAN GROOT AGRICULTURAL PRODUCTS (OPC) PRIVATE
+                                LIMITED</span></a>. All Rights Reserved.</p>
+                </div>
+            </div>
+        </footer>
+</body>
+</html>

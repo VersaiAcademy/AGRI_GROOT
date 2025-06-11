@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FAQ - VIKJAN GROOT AGRICULTURE PRODUCTS</title>
+        <link href="../../css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap"
+        rel="stylesheet">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/x-icon/agricul.svg">
+
+    <link rel="stylesheet" href="assets/css/animate.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/all.min.css">
+    <link rel="stylesheet" href="assets/css/icofont.min.css">
+    <link rel="stylesheet" href="assets/css/lightcase.css">
+    <link rel="stylesheet" href="assets/css/swiper.min.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+      <style>
+         body {
+                font-family: 'Poppins', sans-serif;
+                line-height: 1.8;
+                color: var(--text-color);
+                background-color: var(--light-bg);
+                margin: 0;
+                padding: 0;
+            }
+        :root {
+            --primary-color: #2E7D32;
+            --secondary-color: #4CAF50;
+            --text-color: #333;
+            --light-bg: #f9f9f9;
+            --white: #ffffff;
+            --box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .faq-container {
+            max-width: 1200px;
+            margin: 40px auto;
+            padding: 30px;
+            background: var(--white);
+            border-radius: 10px;
+            box-shadow: var(--box-shadow);
+        }
+
+        .faq-header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 15px;
+        }
+
+        .faq-header h1 {
+            color: var(--primary-color);
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        .faq-header p {
+            color: #666;
+            font-size: 1rem;
+        }
+
+        .faq-section {
+            margin-bottom: 30px;
+        }
+
+        .faq-section h2 {
+            color: var(--primary-color);
+            font-size: 1.5rem;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 1px dashed #ddd;
+        }
+
+        .faq-item {
+            margin-bottom: 15px;
+            border: 1px solid #eee;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .faq-question {
+            background-color: #f5f5f5;
+            padding: 15px 20px;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            transition: all 0.3s ease;
+        }
+
+        .faq-question:hover {
+            background-color: #e9f5e9;
+        }
+
+        .faq-question::after {
+            content: '+';
+            font-size: 1.5rem;
+            color: var(--primary-color);
+        }
+
+        .faq-question.active::after {
+            content: '-';
+        }
+
+        .faq-answer {
+            padding: 0 20px;
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.3s ease, padding 0.3s ease;
+        }
+
+        .faq-answer.show {
+            padding: 20px;
+            max-height: 500px;
+        }
+
+        .highlight-box {
+            background: #E8F5E9;
+            padding: 15px;
+            border-left: 4px solid var(--primary-color);
+            margin: 20px 0;
+            border-radius: 0 5px 5px 0;
+        }
+
+        @media (max-width: 768px) {
+            .faq-container {
+                padding: 20px;
+                margin: 20px;
+            }
+
+            .faq-header h1 {
+                font-size: 2rem;
+            }
+        }
+    </style>
+</head>
+<body>
+      <header class="header-section">
+            <!-- <div class="header-top d-none d-lg-block">
+                    <div class="container">
+                        <div class="row justify-content-center align-items-center">
+                            <div class="col-lg-7 col-12">
+                                <div class="ht-left">
+                                    <ul class="agri-ul d-flex flex-wrap">
+                                        <li><i class="icofont-envelope"></i><span>Chashi@gmail.com</span></li>
+                                        <li><i class="icofont-phone"></i><span>+88130-589-745-6987</span></li>
+                                        <li><i class="icofont-stopwatch"></i><span>Mon - Fri 09:00 - 18:00</span></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-5 col-12">
+                                <div class="ht-right">
+                                    <div class="scocial-media">
+                                        <a href="#" class="facebook"><i class="icofont-facebook"></i></a>
+                                        <a href="#" class="twitter"><i class="icofont-twitter"></i></a>
+                                        <a href="#" class="linkedin"><i class="icofont-linkedin"></i></a>
+                                        <a href="#" class="vimeo"><i class="icofont-vimeo"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div> -->
+            <div class="header-area">
+                <div class="container">
+                    <nav class="navbar navbar-expand-lg">
+                        <div class="primary-menu">
+                            <div class="logo">
+                                <a href="index.html"><img class="groot-logo" src="assets/images/logo/01.svg"
+                                        alt="logo"></a>
+                            </div>
+                            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                                <i class="icofont-navigation-menu"></i>
+                            </button>
+                            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                                <div class="main-area">
+                                    <div class="main-menu">
+                                        <ul class="agri-ul">
+                                            <li class="active"><a href="#">Home</a>
+
+                                            </li>
+                                            <li>
+                                                <a href="about.html">About</a>
+
+                                            </li>
+
+
+                                            <li>
+                                                <a href="product-page.html">Shop</a>
+
+                                            </li>
+                                            <li><a href="service.html">Services</a></li>
+                                            <li><a href="contact-us.html">Contact</a></li>
+                                        </ul>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </header>
+     <div class="faq-container">
+        <div class="faq-header">
+            <h1>Frequently Asked Questions</h1>
+            <p>Find answers to common questions about our products and services</p>
+        </div>
+        <p>At <strong>VIKJAN GROOT AGRICULTURAL PRODUCTS (OPC) PRIVATE LIMITED</strong>,your satisfaction is our top priority. Please review the following FAQs to understand our cancellation and refund process clearly.
+
+</p>
+
+        <div class="faq-section">
+            <h2>Ordering & Payments</h2>
+            
+            <div class="faq-item">
+                <div class="faq-question">How do I place an order?</div>
+                <div class="faq-answer">
+                    <p>You can place an order through our website by selecting the products you want, adding them to your cart, and proceeding through the checkout process. You'll need to provide shipping information and payment details to complete your order.</p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <div class="faq-question">What payment methods do you accept?</div>
+                <div class="faq-answer">
+                    <p>We accept various payment methods including credit/debit cards (Visa, MasterCard, American Express), net banking, UPI payments, and cash on delivery (for select areas).</p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <div class="faq-question">Is it safe to use my credit card on your website?</div>
+                <div class="faq-answer">
+                    <p>Yes, we use secure SSL encryption for all transactions. Your payment information is processed through PCI-compliant payment gateways, and we do not store your full credit card details on our servers.</p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <div class="faq-question">Can I modify or cancel my order after placing it?</div>
+                <div class="faq-answer">
+                    <p>You can modify or cancel your order within 12 hours of placement, provided it hasn't been processed for shipment. For orders already in processing, please contact our customer support immediately.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="faq-section">
+            <h2>Shipping & Delivery</h2>
+            
+            <div class="faq-item">
+                <div class="faq-question">What are your delivery areas and timelines?</div>
+                <div class="faq-answer">
+                    <p>We deliver across India with varying timelines:
+                        <ul>
+                            <li>Metro cities: 2-3 business days</li>
+                            <li>Other urban areas: 3-5 business days</li>
+                            <li>Rural areas: 5-7 business days</li>
+                        </ul>
+                        Exact delivery times will be shown during checkout based on your location.
+                    </p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <div class="faq-question">Do you offer express delivery?</div>
+                <div class="faq-answer">
+                    <p>Yes, we offer express delivery for select products and locations at an additional charge. This service guarantees delivery within 24-48 hours where available.</p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <div class="faq-question">How can I track my order?</div>
+                <div class="faq-answer">
+                    <p>Once your order is shipped, you'll receive a tracking number via email/SMS. You can track your order by clicking the tracking link in your email or by logging into your account on our website.</p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <div class="faq-question">What should I do if my order is delayed?</div>
+                <div class="faq-answer">
+                    <p>While we strive to deliver all orders on time, occasional delays may occur due to unforeseen circumstances. If your order is significantly delayed, please contact our customer support for assistance.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="faq-section">
+            <h2>Returns & Refunds</h2>
+            
+            <div class="faq-item">
+                <div class="faq-question">What is your return policy?</div>
+                <div class="faq-answer">
+                    <p>We accept returns within 7 days of delivery for most products, provided they are in original condition with packaging intact. Perishable items and opened products cannot be returned for hygiene reasons.</p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <div class="faq-question">How do I initiate a return?</div>
+                <div class="faq-answer">
+                    <p>To initiate a return, please contact our customer support with your order number and reason for return. We'll guide you through the return process and provide a return authorization if eligible.</p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <div class="faq-question">How long does it take to process a refund?</div>
+                <div class="faq-answer">
+                    <p>Refunds are typically processed within 5-10 business days after we receive and inspect the returned items. The time taken for the refund to reflect in your account depends on your payment method and bank processing times.</p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <div class="faq-question">What if I receive a damaged or incorrect item?</div>
+                <div class="faq-answer">
+                    <p>If you receive a damaged or incorrect item, please contact us immediately with photos of the product and packaging. We'll arrange for a replacement or refund as appropriate.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="faq-section">
+            <h2>Product & Quality</h2>
+            
+            <div class="faq-item">
+                <div class="faq-question">Are your agricultural products organic?</div>
+                <div class="faq-answer">
+                    <p>We offer both organic and conventionally grown products. Organic products are clearly labeled as such and come with appropriate certifications where applicable.</p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <div class="faq-question">How do you ensure product quality?</div>
+                <div class="faq-answer">
+                    <p>We work directly with trusted farmers and suppliers, conduct regular quality checks, and follow strict storage and handling procedures to ensure our products meet high quality standards.</p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <div class="faq-question">Do you offer bulk purchasing options?</div>
+                <div class="faq-answer">
+                    <p>Yes, we offer special pricing for bulk orders. Please contact our sales team for bulk order inquiries and customized solutions for your needs.</p>
+                </div>
+            </div>
+            
+            <div class="faq-item">
+                <div class="faq-question">Can I get product recommendations for specific needs?</div>
+                <div class="faq-answer">
+                    <p>Absolutely! Our agricultural experts can provide personalized recommendations based on your specific requirements. Contact our customer support or use the chat feature on our website.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="highlight-box">
+            <strong>Still have questions?</strong> Contact our customer support team at <a href="mailto:support@vikjangroot.com">support@vikjangroot.com</a> or call +91-XXXXXXXXXX (10 AM - 6 PM, Mon-Sat) for further assistance.
+        </div>
+    </div>
+     <footer class="footer-section padding-tb pb-0">
+            <div class="container">
+                <div class="footer-top">
+                    <div class="row">
+                        <div class="col-xl-3 col-md-6 col-12">
+                            <div class="footer-item">
+                                <div class="footer-inner">
+                                    <div class="footer-logo">
+                                        <img class="groot-logo" src="assets/images/logo/01.svg" alt="footer-logo">
+                                    </div>
+                                    <div class="footer-desc">
+                                        <h4 style="color: white;"></h4>
+                                        <p>VIKJAN GROOT AGRICULTURAL PRODUCTS (OPC) PRIVATE LIMITED with premium quality products and services.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                       
+                        <div class="col-xl-3 col-md-6 col-12">
+                            <div class="footer-item">
+                                <div class="footer-inner">
+                                    <div class="footer-title">
+                                        <h5>Our Policies</h5>
+                                    </div>
+                                    <div class="footer-body">
+                                        <ul class="agri-ul" style="color: white;">
+                                            <li><a href="return policy.html">Return Policy</a></li>
+                                            <li><a href="Privacy Policy.html">Privacy Policy</a></li>
+                                            <li><a href="Seller Terms and Conditions.html">Seller Terms and Conditions</a></li>
+                                            <li><a href="Shipping-Delivery.html">Shipping / Delivery</a></li>
+                                            <li><a href="Cancellation Policy.html">Cancellation Policy</a></li>
+                                            <li><a href="FAQ.html">FAQ</a></li>
+                                           
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <style>
+                            a:visited{
+                                color: white;
+                            }
+                        </style>
+                         <div class="col-xl-3 col-md-6 col-12">
+                            <div class="footer-item">
+                                <div class="footer-inner">
+                                    <div class="footer-title">
+                                        <h5>Services</h5>
+                                    </div>
+                                    <div class="footer-body">
+                                        <ul class="agri-ul" style="color: white;">
+                                            <li><a href="#">Home</a></li>
+                                            <li><a href="#">About</a></li>
+                                            <li><a href="#">Shop</a></li>
+                                            <li><a href="#">Services</a></li>
+                                            <li><a href="#">Contact</a></li>
+                                           
+                                           
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                         <div class="col-xl-3 col-md-6 col-12">
+                            <div class="footer-item footer-addtess">
+                                <div class="footer-inner">
+                                    <div class="footer-title">
+                                        <h5>Contact Us</h5>
+                                    </div>
+                                    <div class="footer-body">
+                                        <ul class="agri-ul">
+                                            <li>
+                                                <div class="icon">
+                                                    <i class="icofont-google-map"></i>
+                                                </div>
+                                                <div class="detalis">
+                                                    <p>Vikas Kumar / Tarachand Jangir<br>
+                                                        VPO Khasoli, Churu, Rajasthan 331001</p>
+                                                </div>
+                                            </li>
+                                            <li>
+                                                <div class="icon">
+                                                    <i class="icofont-phone"></i>
+                                                </div>
+                                                <div class="detalis">
+                                                    <p>+91 7014672284</p>
+                                                </div>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="footer-bottom">
+                    <p>&copy; 2023 <a href="index.html"><span>VIKJAN GROOT AGRICULTURAL PRODUCTS (OPC) PRIVATE
+                                LIMITED</span></a>. All Rights Reserved.</p>
+                </div>
+            </div>
+        </footer>
+</body>
+</html>
